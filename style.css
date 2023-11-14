@@ -11,7 +11,7 @@
   
   .header-content {
     display: flex;
-    align-items: center;
+    align-items:center;
     justify-content: space-between;
   }
   
@@ -53,8 +53,8 @@
   
   .header-logo {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: top center;
+    justify-content: top center;
     margin-top: 14px;
   }
   
